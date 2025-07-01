@@ -1,0 +1,20 @@
+2025-06-29 00:30:42 INFO  com.logging.AppenderExample - This goes to console and file both.
+2025-06-29 00:30:42 DEBUG com.logging.AppenderExample - Debug level log will appear too.
+2025-06-29 00:30:42 ERROR com.logging.AppenderExample - Simulating error for both outputs.
+2025-06-29 00:30:42 INFO  com.logging.AppenderExample - This goes to console and file both.
+2025-06-29 00:30:42 DEBUG com.logging.AppenderExample - Debug level log will appear too.
+2025-06-29 00:30:42 ERROR com.logging.AppenderExample - Simulating error for both outputs.
+2025-06-29 00:32:48 INFO  com.logging.ParameterizedLogging - User Satyam has logged in 5 times today.
+2025-06-29 00:32:48 WARN  com.logging.ParameterizedLogging - Disk space is 90% full on Drive C:
+2025-06-29 10:39:27 INFO  com.logging.ParameterizedLogging - User Satyam has logged in 5 times today.
+2025-06-29 10:39:27 WARN  com.logging.ParameterizedLogging - Disk space is 90% full on Drive C:
+2025-06-29 10:39:53 INFO  com.logging.ParameterizedLogging - User Satyam has logged in 5 times today.
+2025-06-29 10:39:53 WARN  com.logging.ParameterizedLogging - Disk space is 90% full on Drive C:
+2025-06-29 10:43:28 INFO  com.logging.ParameterizedLogging - User Satyam has logged in 5 times today.
+2025-06-29 10:43:28 WARN  com.logging.ParameterizedLogging - Disk space is 90% full on Drive C:
+2025-07-01 18:46:22 ERROR com.slf4j.logging.LoggingExample - This is an error message
+2025-07-01 18:46:22 WARN  com.slf4j.logging.LoggingExample - This is a warning message
+2025-07-01 18:47:46 INFO  c.s.l.ParameterizedLoggingExample - User Satyam has attempted login 3 times
+2025-07-01 18:49:53 INFO  c.s.logging.AppenderLoggingExample - Logging to both console and file
+2025-07-01 18:49:53 DEBUG c.s.logging.AppenderLoggingExample - Debug details are here
+2025-07-01 18:49:53 WARN  c.s.logging.AppenderLoggingExample - This is a warning
